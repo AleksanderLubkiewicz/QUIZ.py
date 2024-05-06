@@ -1,5 +1,6 @@
 # QUIZ.py
 Quiz. A simple quiz written in Python using tkinter.
+Quiz in Polish
 ## Introduction
 
 The quiz game is designed to test the player's knowledge in different areas such as capitals, historical events, names, chemical elements, true or false statements, and fictional character aliases. It offers a fun way to learn and challenge oneself.
