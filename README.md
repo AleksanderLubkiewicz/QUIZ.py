@@ -7,7 +7,7 @@ The quiz game is designed to test the player's knowledge in different areas such
 
 ## Usage
 
-To play the game, simply run the Python program. Follow the on-screen instructions to answer the questions presented. After completing the quiz, the program will display your score and allow you to play again if desired.
+To play the game, simply run the Quiz.exe. Follow the on-screen instructions to answer the questions presented. After completing the quiz, the program will display your score and allow you to play again if desired.
 
 ## Categories
 
