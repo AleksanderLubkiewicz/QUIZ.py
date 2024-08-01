@@ -1,5 +1,5 @@
 # QUIZ.py
-Quiz. A simple quiz written in Python using tkinter.
+A simple quiz written in Python using tkinter. <br>
 Quiz in Polish
 ## Introduction
 
